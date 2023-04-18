@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am franco dimiceli and i am currently enrolled in nottingham college doing extended diploma IT course. I like programming becouse it lets me solve problems and let me be creative whith my solutions. In my spear time I like to some gameing and I reasearch computer compondents. In the future I would like to create and completemore programming projects, improve my programming skills, improve my outher skills and get new ones, educate myself further and eventually get to do a job that I enjoy.
+
+Skills:
+
 <!--
 **franco-dimiceli/franco-dimiceli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
