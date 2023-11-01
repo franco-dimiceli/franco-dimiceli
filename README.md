@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am franco dimiceli and i am currently enrolled in nottingham college doing extended diploma IT course. I like programming becouse it lets me solve problems and let me be creative whith my solutions. In my spear time I like to some gameing and I reasearch computer compondents. In the future I would like to create and completemore programming projects, improve my programming skills, improve my outher skills and get new ones, educate myself further and eventually get to do a job that I enjoy.
+I am franco dimiceli and I am currently enrolled in Nottingham College doing an extended diploma IT course. I like programming because it lets me solve problems and let me be creative with my solutions. In my spare time, I like to do some gaming and I research computer components. In the future, I would like to create and complete more programming projects, improve my programming skills, improve my other skills and get new ones, educate myself further and eventually get to do a job that I enjoy.
 
 Skills:
 
