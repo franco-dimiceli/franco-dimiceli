@@ -8,6 +8,8 @@ Skills:
 - website development
 - project management
 - time management
+- problem solveing
+- critical thinking
 
 <!--
 **franco-dimiceli/franco-dimiceli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
