@@ -4,6 +4,9 @@ I am franco dimiceli and I am currently enrolled in Nottingham College doing an 
 
 Skills:
 
+- basic python programming 
+- website development 
+
 <!--
 **franco-dimiceli/franco-dimiceli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
